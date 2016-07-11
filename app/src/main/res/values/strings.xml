@@ -6,4 +6,6 @@
     <string name="send_title">SEND</string>
     <string name="toast_message">toast message</string>
     <string name="toast_title">SHOW TOAST</string>
+    <string name="google_title">SHOW GOOGLE</string>
+    <string name="dial_title">SHOW DIAL</string>
 </resources>

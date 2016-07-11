@@ -7,4 +7,6 @@
     <string name="send_title">보내기</string>
     <string name="toast_message">토스트 메세지</string>
     <string name="toast_title">토스트 보기</string>
+    <string name="google_title">구글</string>
+    <string name="dial_title">다이얼</string>
 </resources>

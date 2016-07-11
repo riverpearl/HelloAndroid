@@ -51,4 +51,22 @@
         android:layout_below="@+id/text_message"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/google_title"
+        android:id="@+id/btn_google"
+        android:layout_below="@+id/btn_toast"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dial_title"
+        android:id="@+id/btn_dial"
+        android:layout_below="@+id/btn_google"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 </RelativeLayout>
