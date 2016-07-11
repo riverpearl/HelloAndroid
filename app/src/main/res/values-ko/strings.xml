@@ -3,5 +3,6 @@
     <string name="app_name">헬로안드로이드</string>
     <string name="hello_world">헬로, 월드!!!</string>
     <string name="hello_android">헬로, 안드로이드!</string>
-    <string name="hi_android">하이, 안드로이드!</string>
+    <string name="hi_android">하이, 안드로이드!!!</string>
+    <string name="send_title">보내기</string>
 </resources>
