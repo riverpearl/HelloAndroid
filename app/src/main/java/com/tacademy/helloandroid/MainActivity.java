@@ -62,5 +62,14 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+
+        btn = (Button)findViewById(R.id.btn_myactivity);
+        btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) { //Context는 내 앱이라는 의미 = MainActivity.this
+                Intent intent = new Intent(MainActivity.this, MyActivity.class); //"내 앱 안에 있는 MyActivity라는 클래스를 띄워줘!"라는 의미
+                startActivity(intent);
+            }
+        });
     }
 }

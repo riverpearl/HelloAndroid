@@ -69,4 +69,13 @@
         android:layout_below="@+id/btn_google"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/myactivity_title"
+        android:id="@+id/btn_myactivity"
+        android:layout_below="@+id/btn_dial"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 </RelativeLayout>

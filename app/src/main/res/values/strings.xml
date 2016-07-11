@@ -8,4 +8,6 @@
     <string name="toast_title">SHOW TOAST</string>
     <string name="google_title">SHOW GOOGLE</string>
     <string name="dial_title">SHOW DIAL</string>
+    <string name="myactivity_title">My Activity</string>
+    <string name="finish_title">FINISH</string>
 </resources>
