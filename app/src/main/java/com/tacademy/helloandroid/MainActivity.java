@@ -17,6 +17,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //객채를 얻어오려면 setContentView 다음에 얻어올 수 있다.
+
         inputView = (EditText)findViewById(R.id.edit_input);
         messageView = (TextView)findViewById(R.id.text_message);
 
